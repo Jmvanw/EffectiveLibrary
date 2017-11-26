@@ -692,6 +692,10 @@ SELECT * FROM BOOK_LOANS
 --insert into BOOK_LOANS (DateOut, BookID, BranchID, CardNo) values ('20160414', 3, 4, 52685343)
 
 insert into BOOK_LOANS (BookCode, CardNo, [Status], DateOut) values 
+( , ' ' , , ' '),
+( , ' ' , , ' '),
+( , ' ' , , ' '),
+( , ' ' , , ' '),
 (332769703750, '551541389', 1, '20160725'),
 (376776386088, '76366001', 1, '20160715' ),
 (634510293247 , '369871170', 1, '20160709' ),
